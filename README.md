@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+Really passionate about keeping up to date with new tech, and expanding my horizons 🚀
+
+### My Stack 💻
+- ReactJS
+- JavaScript
+- TypeScript
+- C# .NET
+
+### Currently Learning 🔬
+- NextJS
+- NodeJS
+
+Follow me here:
+https://twitter.com/JakeSaterlay
+
 <!--
 **JakeSaterlay/JakeSaterlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
