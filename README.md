@@ -10,7 +10,6 @@ Really passionate about keeping up to date with new tech, and expanding my horiz
 
 ### Currently Learning 🔬
 - NextJS
-- NodeJS
 
 Follow me here:
 https://twitter.com/JakeSaterlay
