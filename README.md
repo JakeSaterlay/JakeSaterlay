@@ -11,8 +11,12 @@ Really passionate about keeping up to date with new tech, and expanding my horiz
 ### Currently Learning 🔬
 - NextJS
 
+### Socials
 Follow me here:
 https://twitter.com/JakeSaterlay
+
+Connect with me:
+https://www.linkedin.com/in/jake-saterlay/
 
 <!--
 **JakeSaterlay/JakeSaterlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
