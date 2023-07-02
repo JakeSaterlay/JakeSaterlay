@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I'm Jake 👋
 
-Really passionate about keeping up to date with new tech, and expanding my horizons 🚀
+I enjoy expanding my horizons with new technologies 🚀
 
 ### My Stack 💻
 - ReactJS
