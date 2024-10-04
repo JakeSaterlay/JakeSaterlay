@@ -18,8 +18,6 @@ https://twitter.com/JakeSaterlay
 Connect with me:
 https://www.linkedin.com/in/jake-saterlay/
 
-![](https://komarev.com/ghpvc/?username=JakeSaterlay)
-
 <!--
 **JakeSaterlay/JakeSaterlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
