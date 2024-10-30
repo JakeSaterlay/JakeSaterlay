@@ -11,11 +11,11 @@ I enjoy expanding my horizons with new technologies 🚀
 
 ### Socials
 Follow me here:
-https://twitter.com/JakeSaterlay
-https://bsky.app/profile/jake.frontpage.team
+- https://twitter.com/JakeSaterlay
+- https://bsky.app/profile/jake.frontpage.team
 
 Connect with me:
-https://www.linkedin.com/in/jake-saterlay/
+- https://www.linkedin.com/in/jake-saterlay/
 
 <!--
 **JakeSaterlay/JakeSaterlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
