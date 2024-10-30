@@ -7,13 +7,12 @@ I enjoy expanding my horizons with new technologies 🚀
 - JavaScript
 - TypeScript
 - C# .NET
-
-### Currently Learning 🔬
 - NextJS
 
 ### Socials
 Follow me here:
 https://twitter.com/JakeSaterlay
+https://bsky.app/profile/jake.frontpage.team
 
 Connect with me:
 https://www.linkedin.com/in/jake-saterlay/
