@@ -6,7 +6,6 @@ I enjoy expanding my horizons with new technologies 🚀
 - ReactJS
 - JavaScript
 - TypeScript
-- C# .NET
 - NextJS
 
 ### Socials
